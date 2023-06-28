@@ -1,0 +1,20 @@
+title: <p align="center"> Manish Kumar AKA Capt Ballstein </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/manish-kumar-86279936/">LinkedIn</a> |
+  <a href="https://github.com/Manishk018/portfolio">GitHub</a>
+  
+  <br>   
+  I'm working on Java.
+  Also learning AI/ML.
+  If you never go, you never know.
+  Working in Synechron domain for 1 years.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
